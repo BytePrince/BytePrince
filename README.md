@@ -23,7 +23,7 @@
 
 #### 订阅我
 
-推荐使用`轻芒杂志`（[安卓下载地址](https://www.coolapk.com/apk/com.wandoujia) [iOS下载地址](https://apps.apple.com/cn/app/id1121520457) ）客户端订阅我的博客
+推荐使用`轻芒杂志`（[安卓下载地址](https://www.coolapk.com/apk/com.wandoujia) [iOS下载地址](https://apps.apple.com/cn/app/id1121520457) ）客户端订阅我的博客[Pwner's Blog](https://pwner.cn)
 
 Feed地址：
 
