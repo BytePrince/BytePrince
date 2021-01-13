@@ -11,9 +11,6 @@
     </a>&nbsp;
     <a href="https://space.bilibili.com/223324122" target="_blank">
     <img style="margin:3px"  src="https://4m.cn/SkGaC" align="left" />
-    </a>&nbsp;
-    <a href="https://m.okjike.com/users/2ebc492e-aac0-4aab-8580-a89dadbe2ddb" target="_blank">
-    <img style="margin:3px"  src="https://4m.cn/q230s" align="left" />
     </a>
 </p>
 
