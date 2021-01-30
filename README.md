@@ -20,13 +20,12 @@
 
 #### 订阅我
 
-推荐使用`轻芒杂志`（[安卓下载地址](https://www.coolapk.com/apk/com.wandoujia) [iOS下载地址](https://apps.apple.com/cn/app/id1121520457) ）客户端订阅我的博客[Pwner's Blog](https://pwner.cn)
+欢迎使用RSS工具订阅本博客：`https://pwner.cn/atom.xml`
 
-Feed地址：
+- Android端推荐使用[轻芒杂志](https://www.coolapk.com/apk/com.wandoujia)
 
-```shell
-https://pwner.cn/atom.xml
-```
+- iOS端推荐使用[NetNewsWire](https://apps.apple.com/cn/app/id1480640210)
+
 
 #### 联系我
 
