@@ -3,7 +3,7 @@
 #### 关于我
 
 <p>    
-    <a href="https://github.com/PwnerZhang" target="_blank">
+    <a href="https://github.com/BytePrince" target="_blank">
     <img style="margin:3px" src="https://4m.cn/BrHHa" align="left" />
     </a>&nbsp;
     <a href="https://www.zhihu.com/people/zzZain" target="_blank">
