@@ -20,7 +20,7 @@
 
 #### 订阅我
 
-欢迎使用RSS工具订阅本博客：`https://pwner.cn/atom.xml`
+欢迎使用RSS工具订阅本博客：`https://byteprince.com/index.xml`
 
 - Android端推荐使用[轻芒杂志](https://www.coolapk.com/apk/com.wandoujia)
 
