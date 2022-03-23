@@ -27,7 +27,4 @@
 - iOS端推荐使用[NetNewsWire](https://apps.apple.com/cn/app/id1480640210)
 
 
-#### 联系我
-
-`emh5aW55aUBmb3htYWlsLmNvbQ==`（base64）
 
